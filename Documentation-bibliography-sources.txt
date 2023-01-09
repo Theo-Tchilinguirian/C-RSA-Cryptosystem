@@ -1,0 +1,16 @@
+RSA :
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+https://fr.wikipedia.org/wiki/Chiffrement_RSA
+https://en.wikipedia.org/wiki/RSA_Factoring_Challenge
+https://en.wikipedia.org/wiki/RSA_numbers
+https://asecuritysite.com/encryption/random3?val=1280
+https://bigprimes.org/
+https://bigprimes.org/primality-test
+https://bigprimes.org/RSA-challenge
+https://bigprimes.org/how-it-works
+https://www.dcode.fr/prime-factors-decomposition
+
+OTP or similar :
+https://en.wikipedia.org/wiki/One-time_pad
+https://fr.wikipedia.org/wiki/Masque_jetable
+https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
